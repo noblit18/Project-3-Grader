@@ -1,0 +1,5 @@
+# Project 3 Grader
+
+The following is a grading mechanism similar to those used in Projects 1 and 2. As before, please modify your project_3_submission.txt file with your answers, commit those changes, and then look at your graded results by clicking on "Actions," clicking on the topmost workflow run, clicking on "build," and then selecting "Grade Project 3 Submission." A strong indicator of the score you should expect on Project 3 will be provided at the bottom of this output, with itemized indications of where you got points correct or not.
+
+Indicating PartialCredit::T will use your previous results to compute subsequent answers (and will give you partial credit if you make a mistake early on that follows you into later work). Indicating PartialCredit::F will make it so you are evaluated against the correct answers and your previous results do not influence subsequent "correct" answers. Your final evaluation will be based on PartialCredit::T, though an interested student may find the other helpful at times.
